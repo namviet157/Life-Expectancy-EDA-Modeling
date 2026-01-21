@@ -1,20 +1,5 @@
 # Life Expectancy Analysis (WHO Dataset)
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Team Information](#team-information)
-- [Dataset](#dataset)
-- [Research Questions](#research-questions)
-- [Key Findings](#key-findings)
-- [Project Structure](#project-structure)
-- [Installation & Setup](#installation--setup)
-- [Dependencies](#dependencies)
-- [How to Run](#how-to-run)
-- [License](#license)
-
----
-
 ## Project Overview
 
 This project analyzes the **Life Expectancy dataset** from the World Health Organization (WHO), covering health data from **179 countries** worldwide between **2000-2015**. 
@@ -31,16 +16,6 @@ The analysis focuses on understanding:
 2. **Hypothesis Testing**: Validate public health theories (e.g., Preston Curve)
 3. **Machine Learning**: Build accurate life expectancy prediction models
 4. **Policy Insights**: Provide actionable recommendations for health policymakers
-
----
-
-## Team Information
-
-| Name | Student ID |
-|------|------------|
-| Cao Trần Bá Đạt | 23127168 |
-| Trần Hoài Thiện Nhân | 23127238 |
-| Bùi Nam Việt | 23127516 |
 
 ---
 
